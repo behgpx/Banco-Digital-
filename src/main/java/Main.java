@@ -4,10 +4,10 @@ public class Main {
 	public static void main(String[] args) {
 		
 		Cliente anderson = new Cliente();
-		anderson.setNome("Anderson");
+		everton.setNome("Everton");
 		
-		Conta cc = new ContaCorrente(anderson);
-		Conta poupanca = new ContaPoupanca(anderson);
+		Conta cc = new ContaCorrente(everton);
+		Conta poupanca = new ContaPoupanca(everton);
 		
 		cc.depositar(200);
 		
