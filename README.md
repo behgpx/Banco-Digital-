@@ -1,2 +1,0 @@
-# Banco-Digital-
-Desafio Concluido
